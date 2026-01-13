@@ -1,2 +1,2 @@
-# Evictionrisk
+# Eviction Risk
 Persistent housing insecurity, driven by underlying financial challenges, remains a critical social and economic issue, with eviction representing the most severe and damaging consequence. This project explores the predictive link between a household's financial stability and its housing outcomes by focusing on two major quantifiable indicators: the rent-to-income (RTI) ratio and consumer credit scores. These indicators frequently serve as warning signs of persistent financial distress, such as high debt or inconsistent income, that can lead directly to housing insecurity.
